@@ -11,8 +11,9 @@ The main action in this game is its platforming elements which integrates player
 The hardest part of the game to implement was the NPC AI. There were many intrecisies in the blueprints, permissions and variables that made this difficult. I encountered many bugs with this part of the game such as trouble accessing variables from the blackboard to use in different blueprints for AI interaction.
 The most interesting part of my game is probably the scene interactions. In the game there is a plank on a clif. The player will need to travel down a well where there is a pressure plate (collision event). When the player gets out of the well they will see that the plank on the cliff is now making a ramp so the player can now go up the cliff and to the next level.
 
-Demo video: 
+Demo video: https://www.youtube.com/watch?v=cN9FKmTv9AQ
 
 Assets 
 https://www.unrealengine.com/marketplace/en-US/product/interactive-spruce-forest
 https://www.mixamo.com/#/?page=1&query=wave&type=Motion%2CMotionPack
+https://www.unrealengine.com/marketplace/en-US/product/28fc3cc4332541e3b0037d67a65e5d6d
